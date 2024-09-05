@@ -2,7 +2,7 @@
 # Donate: If you like my work, you can donate to me via [Steam Trade Offer](https://bit.ly/3qDpgPd)
 
 ## Description:
-Humans need to fight against Zombies by eliminate all of them in that day (in that round) before they can continue on the next level. 
+Humans need to fight against Zombies by eliminating all of them in that day (in that round) before they can continue to the next level. And be aware, that if you get infected by Zombie you will turn into a Zombie.
 
 ## Gameplay:
 https://www.youtube.com/watch?v=ys8GR-f7X-U
