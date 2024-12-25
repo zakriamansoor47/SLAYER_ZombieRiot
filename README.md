@@ -1,5 +1,6 @@
 # Accepting Paid Request! Discord: Slayer47#7002
-# Donate: If you like my work, you can donate to me via [Steam Trade Offer](https://bit.ly/3qDpgPd)
+# Donation
+<a href="https://www.buymeacoffee.com/slayer47" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 ## Description:
 Humans need to fight against Zombies by eliminating all of them in that day (in that round) before they can continue to the next level. And be aware, that if you get infected by Zombie you will turn into a Zombie.
